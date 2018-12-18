@@ -6,5 +6,8 @@ To do this we create six large flip dot displays in the shape of polaroid photos
 A detailed system diagram is in this folder.
 
 -Jesse Easdon
+jesseeasdon.com
 
 For more info go to https://github.com/Easdonj/coachella.git
+or
+https://youtu.be/P3poanxmcvM
